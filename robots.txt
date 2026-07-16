@@ -1,3 +1,11 @@
 User-agent: *
 Allow: /
 Sitemap: https://marnixfeller.nl/sitemap.xml
+
+# AI crawlers welkom
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
